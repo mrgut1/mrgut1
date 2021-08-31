@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrgut1
-- 👀 I’m interested in car diagnostic prograns/softwares
+- 👀 I’m interested in car diagnostic programs/softwares
 - 🌱 I’m currently learning related aspects
 - 💞️ I’m looking to collaborate on J2534 and others
 - 📫 How to reach me ...
